@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A413-A77A
+
+ Directory of C:\apps\coursera\meta\git\repo-exercise
+
+12/02/2022  07:53 PM    <DIR>          .
+12/02/2022  07:53 PM    <DIR>          ..
+12/02/2022  07:51 PM                15 README.md
+12/02/2022  07:53 PM                 0 result.txt
+               2 File(s)             15 bytes
+               2 Dir(s)  315,568,041,984 bytes free
